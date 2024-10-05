@@ -10,6 +10,7 @@ In this challenge, the task was to uncover a hidden clue within a smart contract
 
 **Receiver's Address (decrypted)**: 2JAZQO6Z5BCXFMPVW2CACK2733VGKWLZKS6DGG565J7H5NH77JNHLIIXLY
 **Transaction sent**:[Transaction link](https://testnet.explorer.perawallet.app/tx/AMEMU2VI6S7H7F45JZR6WQTYXGSQDOABMCDWF7OA4FBXVKFK7Z2A)
+
 **Transaction Confirmed in Round**: 44391591
 
 ### Terminal Output
@@ -48,7 +49,9 @@ After using substitution cipher methods, I uncovered the following asset ID: 720
 ### Transaction
 
 **Asset ID (task)**: 720485937
+
 **Transaction sent**: [Transaction link](https://testnet.explorer.perawallet.app/tx/34C5GAOOX4MYFC4XO626IWCTTALKMFGVI7QGUMECYB7PUZVW5OYQ/)
+
 **Transaction Confirmed in Round**: 44391578
 
 ### Terminal Output
@@ -71,17 +74,21 @@ The third challenge involved using an Asset ID from Challenge 2 and a wallet add
 ### Key Formation:
 
 **Wallet Address (Challenge 1)**: 2JAZQO6Z5BCXFMPVW2CACK2733VGKWLZKS6DGG565J7H5NH77JNHLIIXLY
+
 **Asset ID (Challenge 2)**: 720485937
+
 **Formed Key**: ZA2
 
 ### Encrypted Message:
 
 **Original Message**: Algorand uses Pure Proof of Stake Algorithm.
+
 **Encrypted Message (using HMAC-SHA256)**: ae6ebfcff2e1d10cafb51c0e4ab77da22838436dd3b5d82b7d2eb6104bd30dc3
 
 ### Transaction
 
 **Transaction sent:**[Transaction Link](https://testnet.explorer.perawallet.app/tx/T7U7PRZOYN7OWVH2HKRYGBQ75MKYGDOTDDFQWWUVX33QHU6SF4CA/)
+
 **Transaction Confirmed in Round**: 44391623
 
 ### Terminal Output:
